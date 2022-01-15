@@ -1,0 +1,12 @@
+groupnames:
+  # WORLD = Bulunduğu dünya, PLAYER = Oyuncu ismi, MESSAGE = Mesaj
+  # worlds listensindeki görünümlerin çalışması için WORLD şekilde yazınız
+  # mesajın gözükmesi için MESSAGE şeklinde yazınız
+  # En altta bulunan grup en yüksek rütbedir, en alta yazdığınız
+  # grup op vs. kişilerde otomatik olacak gruptur!
+  default: '&2[WORLD] &eOyuncu &fPLAYER &7: &fMESSAGE'
+  moderator: '&2[WORLD] &bModerator &cPLAYER &7: &cMESSAGE'
+  yonetici: '&2[WORLD] &4Yönetici &cPLAYER &7: &cMESSAGE'
+
+worlds:
+  world: 'World'

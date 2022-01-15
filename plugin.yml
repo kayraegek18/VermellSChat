@@ -1,0 +1,17 @@
+name: VermellSChat
+main: net.kayega.Main
+api-version: 1.16
+version: 1.0
+author: Kayega
+website: https://basenodestudios.com/vermellschat
+load: STARTUP
+commands:
+  vermellschat:
+    usage: /<command>
+    description: Main command
+  engelle:
+    usage: /<command>
+    description: Ban command
+  at:
+    usage: /<command>
+    description: Kick command
